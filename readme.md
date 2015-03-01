@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/cchaantaall/awesome.png?label=ready&title=Ready)](https://waffle.io/cchaantaall/awesome)
 # Awesome
 
 > A curated list of awesome lists
